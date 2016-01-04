@@ -1,2 +1,2 @@
 # eXosip_ex
-osip eXosip eclipse debug project
+ debug osip eXosip source code with eclipse in linux platform
